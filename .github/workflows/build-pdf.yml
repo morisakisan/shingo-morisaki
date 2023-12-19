@@ -1,0 +1,31 @@
+name: release pdf
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    name: release pdf
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+      - run: npm install
+      - name: Build pdf
+        run: npm run build:pdf
+      - name: Create a draft release
+        uses: softprops/action-gh-release@v1
+        with:
+          draft: true
+          fail_on_unmatched_files: true
+          files: docs/README.pdf
+          name: Release ${{ github.ref }}
