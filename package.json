@@ -4,7 +4,8 @@
   "description": "経歴書",
   "main": "index.js",
   "scripts": {
-    "lint": "textlint . && markdownlint *.md **/*.md"
+    "lint": "textlint . && markdownlint *.md **/*.md",
+    "build:pdf": "md-to-pdf docs/${YOUR_RESUME}.md --config-file ./pdf-configs/config.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
     "@textlint-ja/textlint-rule-no-dropping-i": "^2.0.1",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
     "markdownlint-cli": "^0.38.0",
+    "md-to-pdf": "^5.2.4",
     "textlint": "^13.4.1",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-apostrophe": "^2.0.0",
