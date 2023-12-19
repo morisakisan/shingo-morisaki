@@ -1,0 +1,24 @@
+{
+  "name": "keirekisyo",
+  "version": "1.0.0",
+  "description": "経歴書",
+  "main": "index.js",
+  "scripts": {
+    "lint": "textlint . && markdownlint *.md **/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morisakisan/shingo-morisaki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morisakisan/shingo-morisaki/issues"
+  },
+  "homepage": "https://github.com/morisakisan/shingo-morisaki#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.38.0",
+    "textlint": "^13.4.1"
+  }
+}
