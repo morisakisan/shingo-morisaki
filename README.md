@@ -1,2 +1,2 @@
 # shingo-morisaki
-経歴書
+経歴書。
