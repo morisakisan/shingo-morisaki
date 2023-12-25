@@ -4,7 +4,7 @@
   "description": "経歴書",
   "main": "index.js",
   "scripts": {
-    "lint": "textlint . && markdownlint *.md **/*.md",
+    "lint": "textlint docs/**/*.md && markdownlint docs/**/*.md",
     "build:pdf": "md-to-pdf docs/${YOUR_RESUME}.md --config-file ./pdf-configs/config.js"
   },
   "repository": {
