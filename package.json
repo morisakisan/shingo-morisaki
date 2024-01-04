@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "textlint docs/**/*.md && markdownlint docs/**/*.md",
-    "build:pdf": "md-to-pdf docs/${YOUR_RESUME}.md --config-file ./pdf-configs/config.js"
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "repository": {
     "type": "git",
