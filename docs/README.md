@@ -11,7 +11,18 @@
 
 ## 職務経歴
 
-### スーパーの商品配送アプリの新規開発
+### 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用
+
+| **項目名** | **内容** |
+|------------|----------|
+| 在籍期間 | 2022年2月 〜 2023年3月 |
+| チーム編成 | チーム5名<br>開発4名<br>全体5名 |
+| プロジェクトの役割 | PG |
+| 使用言語 | Kotlin |
+| 使用ツールとライブラリー | Android Architecture Components(Live Data、Room、View Modelなど)<br>Coroutines<br>Jetpack Compose<br>Dagger Hilt<br>Apollo Client<br>|
+| コメント | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行ってました。 |
+
+### スーパーの商品配送Androidアプリケーションの新規開発
 
 | **項目名** | **内容** |
 |------------|----------|
@@ -19,7 +30,7 @@
 | チーム編成 | チーム4名<br>開発4名<br>全体4名 |
 | プロジェクトの役割 | PG |
 | 使用言語 | Kotlin |
-| 使用ツールとライブラリー | Android Architecture Components<br>Retrofit<br>PlantUML|
+| 使用ツールとライブラリー | Android Architecture Components<br>Retrofit<br>PlantUML<br>Coroutines|
 | コメント | スーパーの商品配送アプリのアプリケーションの新規開発を行ってました。SIERなのでウォーターフォール開発なので各機能の設計書を書いてました。 |
 
 ### ヘルケアアプリの新機能開発及び保守運用
