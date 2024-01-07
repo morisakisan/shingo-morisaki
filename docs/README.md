@@ -19,7 +19,8 @@
 | チーム編成 | PM1名<br>開発4名<br>デザイナー1名<br>全体6名 |
 | プロジェクトの役割 | PG |
 | 使用言語 | Kotlin |
-| 使用ツールとライブラリー | Android Architecture Components(Live Data、Room、View Modelなど)<br>Coroutines<br>Jetpack Compose<br>Dagger Hilt<br>Apollo Client<br>|
+| 使用ツール | Android Studio,Docker,Asana,Git,GitHub,Slack,Adobe XD |
+| 使用ライブラリー | Android Architecture Components(Live Data、Room、View Modelなど)<br>Coroutines<br>Jetpack Compose<br>Dagger Hilt<br>Apollo Client<br>|
 | コメント | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行っていました。 |
 
 ### スーパーの商品配送Androidアプリケーションの新規開発
