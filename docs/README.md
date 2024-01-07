@@ -16,7 +16,7 @@
 | **項目名** | **内容** |
 |------------|----------|
 | 在籍期間 | 2022年2月 〜 2023年3月 |
-| チーム編成 | チーム5名<br>開発4名<br>全体5名 |
+| チーム編成 | PM1名<br>開発4名<br>デザイナー1名<br>全体6名 |
 | プロジェクトの役割 | PG |
 | 使用言語 | Kotlin |
 | 使用ツールとライブラリー | Android Architecture Components(Live Data、Room、View Modelなど)<br>Coroutines<br>Jetpack Compose<br>Dagger Hilt<br>Apollo Client<br>|
@@ -27,7 +27,7 @@
 | **項目名** | **内容** |
 |------------|----------|
 | 在籍期間 | 2021年9月 〜 2022年1月 |
-| チーム編成 | チーム4名<br>開発4名<br>全体4名 |
+| チーム編成 | PM1名<br>開発4名<br>全体5名 |
 | プロジェクトの役割 | PG |
 | 使用言語 | Kotlin |
 | 使用ツールとライブラリー | Android Architecture Components<br>Retrofit<br>PlantUML<br>Coroutines|
@@ -38,10 +38,10 @@
 | **項目名** | **内容** |
 |------------|----------|
 | 在籍期間 | 2019年2月 〜 2021年4月 |
-| チーム編成 | チーム7名<br>開発7名<br>全体7名 |
+| チーム編成 | PM1名<br>開発4名<br>テスター1名<br>全体7名 |
 | プロジェクトの役割 | PG |
 | 使用言語 | Kotlin<br>Java |
-| 使用ツールとライブラリー | Android Architecture Components<br>RxJava2<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit|
+| 使用ツールとライブラリー | Zeplin<br>Android Architecture Components<br>RxJava2<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit|
 | コメント | ヘルスケアアプリの保守運用、新機能開発等を進めておりました。既存の画面のレイアウト変更。リフレッシュトークンによってアクセストークンを更新する処理の実装。アプリレビュー機能の実装。お客様から問い合わせのあったバグの改修。アプリの容量削減等を行なっておりました。 |
 
 ### コスメ関連の商品販売webサービスのAndroidアプリ開発
