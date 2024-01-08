@@ -20,8 +20,8 @@
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin |
 | **使用ツール** | Android Studio,Docker,Asana,Git,GitHub,Slack,Adobe XD,Bitrise |
-| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど),Coroutines,Jetpack Compose,Dagger Hilt,Apollo Client,epoxy |
-| **コメント** | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行っていました。 |
+| **使用ライブラリー** | Android Architecture Components(LiveData、Room、ViewModelなど),Coroutines,Jetpack Compose,Dagger2,Dagger Hilt,Apollo Client,epoxy |
+| **コメント** | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行っていました。具体的に携わった業務は<br>- 企業の選考状況確認機能を有する画面の作成<br>- 企業情報（企業のインターン体験、企業の選考体験記）のブックマーク機能及びブックマーク画面の作成<br>- Android SDKのバージョンアップ<br>- Dagger2からDagger Hiltへの移行<br>- 各種ライブラリーのバージョンアップ<br>- 企業からのオファー確認画面の作成<br>- クリーンアーキテクチャにおけるUseCaseとUtilityのメソッドへのUnitTestの導入 |
 
 ### スーパーの商品配送Androidアプリケーションの新規開発
 
@@ -32,7 +32,7 @@
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin |
 | **使用ツール** | Android Studio,Docker,Git,GitLab,MicroSoft Teams,PlantUML |
-| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど),Retrofit,Coroutines,OkHttp,Gson |
+| **使用ライブラリー** | Android Architecture Components(LiveData、Room、ViewModelなど),Retrofit,Coroutines,OkHttp,Gson |
 | **コメント** | スーパーの商品配送アプリのアプリケーションの新規開発を行っていました。SIERなのでウォーターフォール開発なので各機能の設計書を書いていました。 |
 
 ### ヘルケアアプリの新機能開発及び保守運用
@@ -44,7 +44,7 @@
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin,Java |
 | **使用ツール** | Android Studio,Asana,Jira,Git,GitHub,Slack,Zeplin,Bitrise,CircleCI,Scrap Box |
-| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModel,WorkManagerなど),RxJava,Mockito,Robolectric,Dagger2,Retrofit,OkHttp,Gson |
+| **使用ライブラリー** | Android Architecture Components(LiveData、Room、ViewModel,WorkManagerなど),RxJava,Mockito,Robolectric,Dagger2,Retrofit,OkHttp,Gson |
 | **コメント** | ヘルスケアアプリの保守運用、新機能開発等を進めておりました。既存の画面のレイアウト変更。リフレッシュトークンによってアクセストークンを更新する処理の実装。アプリレビュー機能の実装。お客様から問い合わせのあったバグの改修。アプリの容量削減等を行なっておりました。 |
 
 ### コスメ関連の商品販売webサービスのAndroidアプリ開発
@@ -56,7 +56,7 @@
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin,Java |
 | **使用ツール** | Android Studio,Jira,Git,GitHub,Slack,Zeplin,Bamboo |
-| **使用ライブラリー** | Android Architecture Components(Live Data,ViewModelなど)RxJava,Retrofit,Dagger2,Picasso,OkHttp,ButterKnife,Gson |
+| **使用ライブラリー** | Android Architecture Components(LiveData,ViewModelなど)RxJava,Retrofit,Dagger2,Picasso,OkHttp,ButterKnife,Gson |
 | **コメント** | コスメ関連の商品販売webサービスのAndroidアプリ開発を行いました。主な業務はバグの改修と新機能開発です。こちらの会社ではKotlinを用いてコーディングを行いました。 |
 
 ### ツアー会社のWEBアプリケーションの新機能開発及びレイアウト変更
@@ -162,9 +162,9 @@
 | **在籍期間** | 2014年4月 〜 2014年5月 |
 | **チーム編成** | チーム3名,開発1名,全体3名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | SVN,Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | GooglePlayで壁紙を購入し、ライブ壁紙に表示するアプリを開発しました。壁紙の一覧画面や詳細画面などの各画面の実装、壁紙ダウンロード処理、GooglePlayの購入処理などの全ての実装を私一人で行いました。 |
 
 ### 大手キャリアホームアプリ開発
@@ -174,9 +174,9 @@
 | **在籍期間** | 2013年10月 〜 2014年2月 |
 | **チーム編成** | チーム4名,開発1名,全体4名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | SVN,Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | 先方の開発したWEBサイトと連携した、ホームアプリを開発しました。具体的には、WEB画面にて登録した電話帳情報やスケジュール情報の通信を行い取得し、ホームアプリに表示させる機能を実装しました。 |
 
 ### 某キャラクターのアラームアプリの開発
@@ -186,9 +186,9 @@
 | **在籍期間** | 2013年7月 〜 2013年9月 |
 | **チーム編成** | チーム2名,開発1名,全体2名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | 某キャラクターのアラームアプリの新規開発を行いました。アラーム機能の他に写真や、アプリ内で選択したキャラクターのデザインを表示するウィジェット機能も実装しました。ウィジェットに表示する写真やデザインの選択等、ユーザーインターフェースの開発に重点を置きました。 |
 
 ### 某出版社ビューワーアプリの開発
@@ -198,9 +198,9 @@
 | **在籍期間** | 2012年11月 〜 2013年1月 |
 | **チーム編成** | チーム4名,開発3名,全体4名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | 某書店の本に関する画像を表示し、拡大縮小、移動、画像の貼り付けを行えるビューワーの開発をしました。表示する画像はネットから取得し、Android端末のメモリを考慮したアプリ開発に取り組みました。 |
 
 ### ライブ壁紙機能を持つアプリの開発
@@ -210,9 +210,9 @@
 | **在籍期間** | 2012年9月 〜 2012年10月 |
 | **チーム編成** | チーム2名,開発1名,全体2名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | 動物がアニメーションするライブ壁紙の開発を行いました。このアプリ開発を通じて、AndroidのCanvasを用いた描画の知識が深まりました。 |
 
 ### きせかえ機能のあるカレンダーアプリの保守・運用
@@ -223,9 +223,9 @@
 | **在籍期間** | 2012年2月 〜 2012年3月 |
 | **チーム編成** | チーム3名,開発2名,全体3名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | きせかえ機能のあるカレンダーアプリの保守・運用及びウィジェット機能の追加を行いました。Googleカレンダーと同期し、Googleカレンダーに登録した予定を表示する機能や、WEB APIと連携をし、着せ替えのコンテンツの表示を行いました。 |
 
 ### 某キャラクターのカレンダーアプリの保守・運用
@@ -235,9 +235,9 @@
 | **在籍期間** | 2011年11月 〜 2012年1月 |
 | **チーム編成** | チーム2名,開発1名,全体2名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | 某キャラクターのカレンダーアプリの保守・運用を行いました。Googleカレンダーと同期し、Googleカレンダーに登録した予定を表示する機能や、WEB APIと連携して着せ替えのコンテンツの表示を行いました。 |
 
 ### 某キャラクターのアラームアプリの新規開発
@@ -247,9 +247,9 @@
 | **在籍期間** | 2011年8月 〜 2011年10月 |
 | **チーム編成** | チーム2名,開発1名,全体2名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | 某キャラクターのアラームアプリの初回リリースを担当しました。アラーム機能の他、ストップウォッチや世界時計機能を含む多機能アプリの開発を行いました。 |
 
 ### プロ野球の公式アプリの開発
@@ -259,7 +259,7 @@
 | **在籍期間** | 2011年6月 〜 2011年7月 |
 | **チーム編成** | チーム3名,開発2名,全体3名 |
 | **プロジェクトの役割** | PG |
-| **使用言語** | Java,XML,SQLite |
+| **使用言語** | Java,XML |
 | **使用ツール** | Eclipse |
-| **使用ライブラリー** | AndroidSDK |
+| **使用ライブラリー** | AndroidSDK,SQLite |
 | **コメント** | プロ野球の公式アプリの初回リリースを担当しました。アプリの機能としては試合結果の表示、野球動画サイトへの遷移、選手の成績表示、試合日程の表示などを実装しました。また、WEBAPIに接続しログインやコンテンツの表示を行うアプリの開発方法を学び、SQLiteの実装も担当しました。 |
