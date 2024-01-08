@@ -15,49 +15,49 @@
 
 | **項目名** | **内容** |
 |------------|----------|
-| 在籍期間 | 2022年2月 〜 2023年3月 |
-| チーム編成 | PM1名<br>開発4名<br>デザイナー1名<br>全体6名 |
-| プロジェクトの役割 | PG |
-| 使用言語 | Kotlin |
-| 使用ツール | Android Studio,Docker,Asana,Git,GitHub,Slack,Adobe XD、Bitrise |
-| 使用ライブラリー | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Coroutines<br>Jetpack Compose<br>Dagger Hilt<br>Apollo Client<br>epoxy |
-| コメント | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行っていました。 |
+| **在籍期間** | 2022年2月 〜 2023年3月 |
+| **チーム編成** | PM1名<br>開発4名<br>デザイナー1名<br>全体6名 |
+| **プロジェクトの役割** | PG |
+| **使用言語** | Kotlin |
+| **使用ツール** | Android Studio,Docker,Asana,Git,GitHub,Slack,Adobe XD、Bitrise |
+| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Coroutines<br>Jetpack Compose<br>Dagger Hilt<br>Apollo Client<br>epoxy |
+| **コメント** | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行っていました。 |
 
 ### スーパーの商品配送Androidアプリケーションの新規開発
 
 | **項目名** | **内容** |
 |------------|----------|
-| 在籍期間 | 2021年9月 〜 2022年1月 |
-| チーム編成 | PM1名<br>開発4名<br>全体5名 |
-| プロジェクトの役割 | PG |
-| 使用言語 | Kotlin |
-| 使用ツール | Android Studio,Docker,Git,GitLab,MicroSoft Teams,PlantUML |
-| 使用ツールとライブラリー | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Retrofit<br>Coroutines,OkHttp |
-| コメント | スーパーの商品配送アプリのアプリケーションの新規開発を行っていました。SIERなのでウォーターフォール開発なので各機能の設計書を書いていました。 |
+| **在籍期間** | 2021年9月 〜 2022年1月 |
+| **チーム編成** | PM1名<br>開発4名<br>全体5名 |
+| **プロジェクトの役割** | PG |
+| **使用言語** | Kotlin |
+| **使用ツール** | Android Studio,Docker,Git,GitLab,MicroSoft Teams,PlantUML |
+| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Retrofit<br>Coroutines,OkHttp |
+| **コメント** | スーパーの商品配送アプリのアプリケーションの新規開発を行っていました。SIERなのでウォーターフォール開発なので各機能の設計書を書いていました。 |
 
 ### ヘルケアアプリの新機能開発及び保守運用
 
 | **項目名** | **内容** |
 |------------|----------|
-| 在籍期間 | 2019年2月 〜 2021年4月 |
-| チーム編成 | PM1名<br>開発4名<br>テスター1名<br>全体7名 |
-| プロジェクトの役割 | PG |
-| 使用言語 | Kotlin<br>Java |
-| 使用ツール | Android Studio,Asana,Jira,Git,GitHub,Slack,Zeplin,Bitrise,CircleCI,Scrap Box |
+| **在籍期間** | 2019年2月 〜 2021年4月 |
+| **チーム編成** | PM1名<br>開発4名<br>テスター1名<br>全体7名 |
+| **プロジェクトの役割** | PG |
+| **使用言語** | Kotlin<br>Java |
+| **使用ツール** | Android Studio,Asana,Jira,Git,GitHub,Slack,Zeplin,Bitrise,CircleCI,Scrap Box |
 | 使用ツールとライブラリー | Android Architecture Components(Live Data、Room、ViewModel,WorkManagerなど)<br>RxJava<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit,OkHttp |
-| コメント | ヘルスケアアプリの保守運用、新機能開発等を進めておりました。既存の画面のレイアウト変更。リフレッシュトークンによってアクセストークンを更新する処理の実装。アプリレビュー機能の実装。お客様から問い合わせのあったバグの改修。アプリの容量削減等を行なっておりました。 |
+| **コメント** | ヘルスケアアプリの保守運用、新機能開発等を進めておりました。既存の画面のレイアウト変更。リフレッシュトークンによってアクセストークンを更新する処理の実装。アプリレビュー機能の実装。お客様から問い合わせのあったバグの改修。アプリの容量削減等を行なっておりました。 |
 
 ### コスメ関連の商品販売webサービスのAndroidアプリ開発
 
 | **項目名** | **内容** |
 |------------|----------|
-| 在籍期間 | 2017年10月 〜 2018年7月 |
-| チーム編成 | チーム名<br>開発名<br>全体名 |
-| プロジェクトの役割 | PG |
-| 使用言語 | Kotlin<br>Java |
-| 使用ツール | Android Studio,Jira,Git,GitHub,Slack,Zeplin,Bamboo |
+| **在籍期間** | 2017年10月 〜 2018年7月 |
+| **チーム編成** | チーム名<br>開発名<br>全体名 |
+| **プロジェクトの役割** | PG |
+| **使用言語** | Kotlin<br>Java |
+| **使用ツール** | Android Studio,Jira,Git,GitHub,Slack,Zeplin,Bamboo |
 | 使用ツールとライブラリー | Android Architecture Components(Live DataViewModelなど)RxJava<br>Retrofit<br>Dagger2<br>Picasso<br>OkHttp |
-| コメント | コスメ関連の商品販売webサービスのAndroidアプリ開発を行いました。主な業務はバグの改修と新機能開発です。こちらの会社ではKotlinを用いてコーディングを行いました。 |
+| **コメント** | コスメ関連の商品販売webサービスのAndroidアプリ開発を行いました。主な業務はバグの改修と新機能開発です。こちらの会社ではKotlinを用いてコーディングを行いました。 |
 
 ### ツアー会社のWEBアプリケーションの新機能開発及びレイアウト変更
 
