@@ -31,7 +31,8 @@
 | チーム編成 | PM1名<br>開発4名<br>全体5名 |
 | プロジェクトの役割 | PG |
 | 使用言語 | Kotlin |
-| 使用ツールとライブラリー | Android Architecture Components<br>Retrofit<br>PlantUML<br>Coroutines|
+| 使用ツール | Android Studio,Docker,Git,GitLab,MicroSoft Teams,PlantUML |
+| 使用ツールとライブラリー | Android Architecture Components<br>Retrofit<br>PlantUML<br>Coroutines |
 | コメント | スーパーの商品配送アプリのアプリケーションの新規開発を行っていました。SIERなのでウォーターフォール開発なので各機能の設計書を書いていました。 |
 
 ### ヘルケアアプリの新機能開発及び保守運用
@@ -42,7 +43,8 @@
 | チーム編成 | PM1名<br>開発4名<br>テスター1名<br>全体7名 |
 | プロジェクトの役割 | PG |
 | 使用言語 | Kotlin<br>Java |
-| 使用ツールとライブラリー | Zeplin<br>Android Architecture Components<br>RxJava2<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit|
+| 使用ツール | Android Studio,Asana,Jira,Git,GitHub,Slack,Zeplin,Bitrise,CircleCI,Scrap Box |
+| 使用ツールとライブラリー | Zeplin<br>Android Architecture Components<br>RxJava<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit |
 | コメント | ヘルスケアアプリの保守運用、新機能開発等を進めておりました。既存の画面のレイアウト変更。リフレッシュトークンによってアクセストークンを更新する処理の実装。アプリレビュー機能の実装。お客様から問い合わせのあったバグの改修。アプリの容量削減等を行なっておりました。 |
 
 ### コスメ関連の商品販売webサービスのAndroidアプリ開発
@@ -53,7 +55,7 @@
 | チーム編成 | チーム名<br>開発名<br>全体名 |
 | プロジェクトの役割 | PG |
 | 使用言語 | Kotlin<br>Java |
-| 使用ツールとライブラリー | RxJava2<br>Retrofit<br>Dagger2<br>Picasso<br>OkHttp3 |
+| 使用ツールとライブラリー | RxJava<br>Retrofit<br>Dagger2<br>Picasso<br>OkHttp3 |
 | コメント | コスメ関連の商品販売webサービスのAndroidアプリ開発を行いました。主な業務はバグの改修と新機能開発です。こちらの会社ではKotlinを用いてコーディングを行いました。 |
 
 ### ツアー会社のWEBアプリケーションの新機能開発及びレイアウト変更
