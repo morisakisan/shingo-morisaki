@@ -32,7 +32,7 @@
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin |
 | **使用ツール** | Android Studio<br>Docker<br>Git<br>GitLab<br>MicroSoft Teams<br>PlantUML |
-| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Retrofit<br>Coroutines<br>OkHttp |
+| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Retrofit<br>Coroutines<br>OkHttp<br>Gson |
 | **コメント** | スーパーの商品配送アプリのアプリケーションの新規開発を行っていました。SIERなのでウォーターフォール開発なので各機能の設計書を書いていました。 |
 
 ### ヘルケアアプリの新機能開発及び保守運用
@@ -44,7 +44,7 @@
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin<br>Java |
 | **使用ツール** | Android Studio<br>Asana<br>Jira<br>Git<br>GitHub<br>Slack<br>Zeplin<br>Bitrise<br>CircleCI<br>Scrap Box |
-| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModel,WorkManagerなど)<br>RxJava<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit<br>OkHttp |
+| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModel,WorkManagerなど)<br>RxJava<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit<br>OkHttp<br>Gson |
 | **コメント** | ヘルスケアアプリの保守運用、新機能開発等を進めておりました。既存の画面のレイアウト変更。リフレッシュトークンによってアクセストークンを更新する処理の実装。アプリレビュー機能の実装。お客様から問い合わせのあったバグの改修。アプリの容量削減等を行なっておりました。 |
 
 ### コスメ関連の商品販売webサービスのAndroidアプリ開発
@@ -56,7 +56,7 @@
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin<br>Java |
 | **使用ツール** | Android Studio<br>Jira<br>Git<br>GitHub<br>Slack<br>Zeplin<br>Bamboo |
-| **使用ライブラリー** | Android Architecture Components(Live Data,ViewModelなど)RxJava<br>Retrofit<br>Dagger2<br>Picasso<br>OkHttp |
+| **使用ライブラリー** | Android Architecture Components(Live Data,ViewModelなど)RxJava<br>Retrofit<br>Dagger2<br>Picasso<br>OkHttp<br>ButterKnife<br>Gson |
 | **コメント** | コスメ関連の商品販売webサービスのAndroidアプリ開発を行いました。主な業務はバグの改修と新機能開発です。こちらの会社ではKotlinを用いてコーディングを行いました。 |
 
 ### ツアー会社のWEBアプリケーションの新機能開発及びレイアウト変更
@@ -91,8 +91,8 @@
 | **チーム編成** | チーム3名<br>開発3名<br>全体3名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | Java |
-| **使用ツール** |  |
-| **使用ライブラリー** | GitHub<br>AndroidStudio<br>JUnit |
+| **使用ツール** | Git<br>GitHub<br>AndroidStudio |
+| **使用ライブラリー** | OkHttp<br>ButterKnife<br>Gson |
 | **コメント** | 長年バージョンアップを続けられてきたマニュアル作成アプリの新機能開発及びバグ改修を行いました。コーディングルールや設計思想がなく、各開発者が独自の実装をしていたため、コードが荒れている状態でした。動画の編集機能の新規開発やバグの改修に取り組みました。 |
 
 ### 音楽配信アプリの開発
@@ -103,8 +103,8 @@
 | **チーム編成** | チーム8名<br>開発4名<br>全体8名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | Java<br>XML |
-| **使用ツール** |  |
-| **使用ライブラリー** | SQLite<br>Linux<br>Git<br>Atom<br>jQuery<br>GitHub<br>AndroidStudio<br>AndroidSDK<br>JUnit |
+| **使用ツール** | Git<br>GitHub<br>AndroidStudio |
+| **使用ライブラリー** | Dagger<br>SQLite<br>jQuery<br>AndroidSDK<br>JUnit<br>ButterKnife<br>Gson |
 | **コメント** | 音楽配信アプリの新規開発を行いました。アーキテクチャーや設計に関しては多くの話し合いを経て決定し、コーディング規約やドキュメントの整理も行いました。Android開発に詳しいチームメンバーから便利なライブラリーの使い方を学び、実際に使用しました。GitHubを用いたチームでの開発、Pull requestを行いコードレビューをする経験やJUnitを用いたテストの作成も初めて行いました。 |
 
 ### ポータルサービスの提供するゲームアプリの保守・運用及び新規開発
@@ -115,8 +115,8 @@
 | **チーム編成** | チーム3名<br>開発2名<br>全体3名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | Java<br>XML<br>C<br>C++<br>シェルスクリプト |
-| **使用ツール** |  |
-| **使用ライブラリー** | Git<br>GitHub<br>AndroidStudio<br>AndroidSDK<br>AndroidNDK<br>Jenkins<br>sphinx |
+| **使用ツール** | Eclipse<br>Jenkins<br>sphinx<br>Git<br>GitHub |
+| **使用ライブラリー** | AndroidSDK<br>AndroidNDK |
 | **コメント** | Gitを使用したバージョン管理、Jenkinsを用いたアプリのビルド、シェルスクリプト、AndroidStudioの使用、AndroidNDKを用いたアプリ開発、sphinxを用いたドキュメント作成など、様々な技術を駆使して開発を行いました。 |
 
 ### 大手キャリアAndroidアラームアプリバージョンアップ
