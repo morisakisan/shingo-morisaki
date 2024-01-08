@@ -19,7 +19,7 @@
 | **チーム編成** | PM1名<br>開発4名<br>デザイナー1名<br>全体6名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin |
-| **使用ツール** | Android Studio,Docker,Asana,Git,GitHub,Slack,Adobe XD、Bitrise |
+| **使用ツール** | Android Studio<br>Docker<br>Asana<br>Git<br>GitHub<br>Slack<br>Adobe XD<br>Bitrise |
 | **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Coroutines<br>Jetpack Compose<br>Dagger Hilt<br>Apollo Client<br>epoxy |
 | **コメント** | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行っていました。 |
 
@@ -31,8 +31,8 @@
 | **チーム編成** | PM1名<br>開発4名<br>全体5名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin |
-| **使用ツール** | Android Studio,Docker,Git,GitLab,MicroSoft Teams,PlantUML |
-| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Retrofit<br>Coroutines,OkHttp |
+| **使用ツール** | Android Studio<br>Docker<br>Git<br>GitLab<br>MicroSoft Teams<br>PlantUML |
+| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModelなど)<br>Retrofit<br>Coroutines<br>OkHttp |
 | **コメント** | スーパーの商品配送アプリのアプリケーションの新規開発を行っていました。SIERなのでウォーターフォール開発なので各機能の設計書を書いていました。 |
 
 ### ヘルケアアプリの新機能開発及び保守運用
@@ -43,8 +43,8 @@
 | **チーム編成** | PM1名<br>開発4名<br>テスター1名<br>全体7名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin<br>Java |
-| **使用ツール** | Android Studio,Asana,Jira,Git,GitHub,Slack,Zeplin,Bitrise,CircleCI,Scrap Box |
-| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModel,WorkManagerなど)<br>RxJava<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit,OkHttp |
+| **使用ツール** | Android Studio<br>Asana<br>Jira<br>Git<br>GitHub<br>Slack<br>Zeplin<br>Bitrise<br>CircleCI<br>Scrap Box |
+| **使用ライブラリー** | Android Architecture Components(Live Data、Room、ViewModel,WorkManagerなど)<br>RxJava<br>Mockito<br>Robolectric<br>Dagger2<br>Retrofit<br>OkHttp |
 | **コメント** | ヘルスケアアプリの保守運用、新機能開発等を進めておりました。既存の画面のレイアウト変更。リフレッシュトークンによってアクセストークンを更新する処理の実装。アプリレビュー機能の実装。お客様から問い合わせのあったバグの改修。アプリの容量削減等を行なっておりました。 |
 
 ### コスメ関連の商品販売webサービスのAndroidアプリ開発
@@ -55,7 +55,7 @@
 | **チーム編成** | チーム名<br>開発名<br>全体名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin<br>Java |
-| **使用ツール** | Android Studio,Jira,Git,GitHub,Slack,Zeplin,Bamboo |
+| **使用ツール** | Android Studio<br>Jira<br>Git<br>GitHub<br>Slack<br>Zeplin<br>Bamboo |
 | **使用ライブラリー** | Android Architecture Components(Live Data,ViewModelなど)RxJava<br>Retrofit<br>Dagger2<br>Picasso<br>OkHttp |
 | **コメント** | コスメ関連の商品販売webサービスのAndroidアプリ開発を行いました。主な業務はバグの改修と新機能開発です。こちらの会社ではKotlinを用いてコーディングを行いました。 |
 
@@ -67,7 +67,7 @@
 | **チーム編成** | チーム2名<br>開発2名<br>全体2名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | HTML<br>CSS<br>PHP<br>JavaScript |
-| **使用ツール** | Atom,Git,GitHub |
+| **使用ツール** | Atom<br>Git<br>GitHub |
 | **使用ライブラリー** | jQuery |
 | **コメント** | 旅行の申し込みをするWEBアプリケーションの新機能開発及びレイアウト変更を行いました。新機能としては、サーバーからツアーのデータをjsonで取得し、表示する機能の実装、そしてレイアウト変更に関しては、既存のスライドショーで画像を表示している部分をCSS、JavaScript、jQueryを用いて再設計しました。 |
 
