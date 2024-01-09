@@ -12,6 +12,7 @@ h1:first-child {
 }
 
 table {
+  width: 100%; /* テーブルの幅を設定 */
   font-size: 11px;
   border-collapse: collapse;
 }
@@ -20,6 +21,12 @@ td,
 th {
   border: 1px solid #ddd;
   padding: 5px;
+}
+
+table th:first-child,
+table td:first-child {
+  width: 100px; /* 最初の列の幅を固定 */
+  white-space: nowrap; /* テキストを改行しない */
 }
 
 tr:nth-child(even) {
