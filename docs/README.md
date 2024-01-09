@@ -19,9 +19,10 @@
 | **チーム編成** | PM1名,開発4名,デザイナー1名,全体6名 |
 | **プロジェクトの役割** | PG |
 | **使用言語** | Kotlin |
-| **使用ツール** | Android Studio,Docker,Asana,Git,GitHub,Slack,Adobe XD,Bitrise |
-| **使用ライブラリー** | Android Architecture Components(LiveData、Room、ViewModelなど),Coroutines,Jetpack Compose,Dagger2,Dagger Hilt,Apollo Client,epoxy |
-| **コメント** | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行っていました。具体的に携わった業務は<br>- 企業の選考状況確認機能を有する画面の作成<br>- 企業情報（企業のインターン体験、企業の選考体験記）のブックマーク機能及びブックマーク画面の作成<br>- Android SDKのバージョンアップ<br>- Dagger2からDagger Hiltへの移行<br>- 各種ライブラリーのバージョンアップ<br>- 企業からのオファー確認画面の作成<br>- クリーンアーキテクチャにおけるUseCaseとUtilityのメソッドへのUnitTestの導入 |
+| **使用ツール** | Android Studio, Docker, Asana, Git, GitHub, Slack, Adobe XD, Bitrise |
+| **使用ライブラリー** | Android Architecture Components (LiveData、Room、ViewModelなど), Coroutines, Jetpack Compose, Dagger2, Dagger Hilt, Apollo Client, epoxy |
+| **コメント** | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用を行っていました。具体的に携わった業務は下記となります。<ul><li>企業の選考状況確認機能を有する画面の作成</li><li>企業情報（企業のインターン体験、企業の選考体験記）のブックマーク機能及びブックマーク画面の作成</li><li>Android SDKのバージョンアップ</li><li>Dagger2からDagger Hiltへの移行</li><li>各種ライブラリーのバージョンアップ</li><li>企業からのオファー確認画面の作成</li><li>クリーンアーキテクチャにおけるUseCaseとUtilityのメソッドへのUnitTestの導入</li></ul> |
+
 
 ### スーパーの商品配送Androidアプリケーションの新規開発
 
