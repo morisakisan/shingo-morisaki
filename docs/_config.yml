@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@v4.24.0
 title: morisakiの経歴書
 description: morisakiの経歴書
 markdown: kramdown
