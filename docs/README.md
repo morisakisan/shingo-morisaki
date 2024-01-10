@@ -9,6 +9,19 @@
 | **生年月日** | ？ |
 | **学歴** | ？ |
 
+## 個人開発
+
+### クイズのSNS
+
+| **項目名** | **内容** |
+|------------|----------|
+| **使用言語** | Dart |
+| **GooglePlay URL** | https://play.google.com/store/apps/details?id=com.shingo.share_quiz&hl=ja-JP |
+| **GitHup Repository** | https://github.com/morisakisan/share_quiz |
+| **使用ツール** | Android Studio, Firebase, Git, GitHub, GitHubActions |
+| **使用ライブラリー** | hooks riverpod, flutter settings ui, rxdart, freezed |
+| **コメント** | Flutterを学習したのでポートフォリオとして作ってみました。ログインしてクイズを投稿するSNSの様な側面を持つアプリケーションです。クリーンアーキテクチャで設計を行いました。現状の機能としては、ログイン機能、ログアウト機能、退会機能、クイズ一覧表示機能、クイズ投稿機能、クイズ解答機能、クイズにいいねを行う機能、クイズをsnsなどで共有する機能がございます。現状Android版しか出していませんが、Flutterで開発しているので今後はios版、web版をリリースしたいです。またコメント機能、検索機能などの機能追加も検討中です。 |
+
 ## 職務経歴
 
 ### 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用
@@ -21,7 +34,7 @@
 | **使用言語** | Kotlin |
 | **使用ツール** | Android Studio, Docker, Asana, Git, GitHub, Slack, Adobe XD, Bitrise |
 | **使用ライブラリー** | Android Architecture Components (LiveData、Room、ViewModelなど), Coroutines, Jetpack Compose, Dagger2, Dagger Hilt, Apollo Client, epoxy |
-| **コメント** | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用に携わりました。具体的には、企業の選考状況の確認機能を有する画面の作成、企業情報のブックマーク機能及びブックマーク画面の作成、Android SDKのバージョンアップ、Dagger2からDagger Hiltへの移行、各種ライブラリーのバージョンアップ、企業からのオファー確認画面の作成、クリーンアーキテクチャにおけるUseCaseとUtilityのメソッドへのUnitTestの導入などが主な業務でした。このプロジェクトではアプリケーション部門の一員として活動し、Android開発では経験豊富なスタッフが不在の状況でしたが、新人スタッフと共に作業を進めました。プロジェクトに慣れるにつれて、日報や全体会議でのバグ修正、ライブラリー更新、コードのリファクタリングなどの改善提案を行い、プロジェクトの品質向上に貢献しました。 |
+| **コメント** | 大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用に携わりました。具体的には、企業の選考状況の確認機能を有する画面の作成、企業情報のブックマーク機能及びブックマーク画面の作成、Android SDKのバージョンアップ、JetPack Composeの導入、Dagger2からDagger Hiltへの移行、各種ライブラリーのバージョンアップ、企業からのオファー確認画面の作成、クリーンアーキテクチャにおけるUseCaseとUtilityのメソッドへのUnitTestの導入などが主な業務でした。このプロジェクトではアプリケーション部門の一員として活動し、Android開発では経験豊富なスタッフが不在の状況でしたが、新人スタッフと共に作業を進めました。プロジェクトに慣れるにつれて、日報や全体会議でのバグ修正、ライブラリー更新、コードのリファクタリングなどの改善提案を行い、プロジェクトの品質向上に貢献しました。 |
 
 ### スーパーの商品配送Androidアプリケーションの新規開発
 
