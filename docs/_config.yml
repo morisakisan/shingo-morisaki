@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima@v2.5.1
+remote_theme: pages-themes/minimal@v0.2.0
 title: morisakiの経歴書
 description: morisakiの経歴書
 markdown: kramdown
