@@ -17,10 +17,10 @@
 |------------|----------|
 | **使用言語** | Dart |
 | **GooglePlay URL** | https://play.google.com/store/apps/details?id=com.shingo.share_quiz&hl=ja-JP |
-| **GitHup Repository** | https://github.com/morisakisan/share_quiz |
+| **GitHub Repository** | https://github.com/morisakisan/share_quiz |
 | **使用ツール** | Android Studio, Firebase, Git, GitHub, GitHubActions |
 | **使用ライブラリー** | hooks riverpod, flutter settings ui, rxdart, freezed |
-| **コメント** | Flutterを学習したのでポートフォリオとして作ってみました。ログインしてクイズを投稿するSNSの様な側面を持つアプリケーションです。クリーンアーキテクチャで設計を行いました。現状の機能としては、ログイン機能、ログアウト機能、退会機能、クイズ一覧表示機能、クイズ投稿機能、クイズ解答機能、クイズにいいねを行う機能、クイズをsnsなどで共有する機能がございます。現状Android版しか出していませんが、Flutterで開発しているので今後はios版、web版をリリースしたいです。またコメント機能、検索機能などの機能追加も検討中です。 |
+| **コメント** | Flutterを学習したのでポートフォリオとして作ってみました。ログインしてクイズを投稿するSNSのような側面を持つアプリケーションです。クリーンアーキテクチャで設計を行いました。現状の機能としては、ログイン機能、ログアウト機能、退会機能、クイズ一覧表示機能、クイズ投稿機能、クイズ解答機能、クイズにいいねを行う機能、クイズをsnsなどで共有する機能がございます。また、GitHubActionsでのCI/CDを導入しました。PR作成時にはビルドとFirebaseへのデプロイを行います。また、masterへのmergeの際には、Google Playの内部共有にアプリケーションをデプロイするワークフローを作成しました。現状Android版しか出していませんが、Flutterで開発しているので今後はios版、web版をリリースしたいです。またコメント機能、検索機能などの機能追加やデザインの修正も検討中です。 |
 
 ## 職務経歴
 
