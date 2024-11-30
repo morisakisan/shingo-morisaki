@@ -10,6 +10,20 @@ template = Template("""
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>スキルシート</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* 印刷用設定 */
+        @media print {
+            body * {
+                display: none; /* 全要素を一旦非表示 */
+            }
+            main, main * { 
+                display: block; /* <main>とその子要素をすべて表示 */
+            }
+            main ~ * {
+                display: block; /* <main>以降の兄弟要素を表示 */
+            }
+        }
+    </style>
 </head>
 <body class="bg-gray-100 text-gray-800">
     <main class="max-w-4xl mx-auto my-10 p-6 bg-white rounded-lg shadow-md">
