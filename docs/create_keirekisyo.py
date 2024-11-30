@@ -13,7 +13,10 @@ template = Template("""
 </head>
 <body class="bg-gray-100 text-gray-800">
     <main class="max-w-4xl mx-auto my-10 p-6 bg-white rounded-lg shadow-md">
-        <h1 class="text-2xl font-bold text-center mb-6">スキルシート</h1>
+        <h1 class="text-3xl font-bold text-center mb-6">スキルシート</h1>
+        <h2 class="text-2xl font-bold mb-6">プロフィール</h2>
+        <h2 class="text-2xl font-bold mb-6">個人開発</h2>
+        <h2 class="text-2xl font-bold mb-6">経歴書</h2>
         {% for project in projects %}
         <table class="w-full border-collapse border border-gray-300 mb-6">
             <tr class="bg-gray-200">
