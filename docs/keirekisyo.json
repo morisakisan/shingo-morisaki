@@ -4,13 +4,51 @@
         "details": [
             {"label": "会社", "value": "Port株式会社"},
             {"label": "サービス概要", "value": "就活生の為の企業口コミサイト"},
-            {"label": "期間", "value": "2022/4/1 〜 2023/4/1"},
+            {"label": "期間", "value": "2022年2月 〜 2023年3月"},
             {"label": "チーム構成", "value": "PM1名,開発4名,デザイナー1名,全体6名"},
             {"label": "役割", "value": "PG"},
             {"label": "使用言語", "value": "Kotlin"},
             {"label": "使用ツール", "value": "Android Studio, Docker, Asana, Git, GitHub, Slack, Adobe XD, Bitrise"},
             {"label": "使用ライブラリ", "value": "Android Architecture Components (LiveData、Room、ViewModelなど), Coroutines, Jetpack Compose, Dagger2, Dagger Hilt, Apollo Client, epoxy"},
             {"label": "コメント", "value": "大学生向けキャリア支援サービスのAndroidアプリケーションの新機能開発及び保守運用に携わりました。具体的には、企業の選考状況の確認機能を有する画面の作成、企業情報のブックマーク機能及びブックマーク画面の作成、Android SDKのバージョンアップ、JetPack Composeの導入、Dagger2からDagger Hiltへの移行、各種ライブラリーのバージョンアップ、企業からのオファー確認画面の作成、クリーンアーキテクチャにおけるUseCaseとUtilityのメソッドへのUnitTestの導入などが主な業務でした。このプロジェクトではアプリケーション部門の一員として活動し、Android開発では経験豊富なスタッフが不在の状況でしたが、新人スタッフと共に作業を進めました。プロジェクトに慣れるにつれて、日報や全体会議でのバグ修正、ライブラリー更新、コードのリファクタリングなどの改善提案を行い、プロジェクトの品質向上に貢献しました。"}
+        ]
+    },
+    {
+        "title": "スーパーの商品配送Androidアプリケーションの新規開発",
+        "details": [
+            {"label": "会社", "value": "株式会社ビッグツリーテクノロジー&コンサルティング"},
+            {"label": "サービス概要", "value": "ドライバーの配送管理アプリケーション"},
+            {"label": "期間", "value": "2021年9月 〜 2022年1月"},
+            {"label": "チーム構成", "value": "PM1名,開発4名,全体5名"},
+            {"label": "役割", "value": "PG"},
+            {"label": "使用言語", "value": "Kotlin"},
+            {"label": "使用ツール", "value": "Android Studio,Docker,Git,GitLab,MicroSoft Teams,PlantUML"},
+            {"label": "使用ライブラリ", "value": "Android Architecture Components(LiveData、Room、ViewModelなど),Retrofit,Coroutines,OkHttp,Gson"},
+            {"label": "コメント", "value": "スーパーの商品配送アプリケーションの新規開発を行っていました。SIERでウォーターフォール開発モデルを採用されており、主にアプリケーション側の各機能の設計書を作成しておりました。作成した設計書の例をいくつか挙げると、ログイン機能、ドライバーの送り届ける荷物一覧の表示機能などです。コーディングに関してはログイン機能のみ設計書を元に行いました。こちらの会社では既に似た様なアプリケーションの開発実績があり、基本的にそちら制作した機能設計書を参考に設計書の制作を進めていましたが、一部の処理関してはトレンドなライブラリーの導入を提案し効率化に貢献しました。"}
+        ]
+    },
+    {
+        "title": "ヘルケアアプリの新機能開発及び保守運用",
+        "details": [
+            {"label": "在籍期間", "value": "2019年2月 〜 2021年4月"},
+            {"label": "チーム編成", "value": "PM1名,開発4名,テスター1名,全体7名"},
+            {"label": "プロジェクトの役割", "value": "PG"},
+            {"label": "使用言語", "value": "Kotlin,Java"},
+            {"label": "使用ツール", "value": "Android Studio,Asana,Jira,Git,GitHub,Slack,Zeplin,Bitrise,CircleCI,Scrap Box"},
+            {"label": "使用ライブラリー", "value": "Android Architecture Components(LiveData、Room、ViewModel,WorkManagerなど),RxJava,Mockito,Robolectric,Dagger2,Retrofit,OkHttp,Gson"},
+            {"label": "コメント", "value": "ヘルスケアアプリの保守運用、新機能開発等を進めておりました。既存の画面のレイアウト変更。リフレッシュトークンによってアクセストークンを更新する処理の実装。アプリレビュー機能の実装。お客様から問い合わせのあったバグの改修。アプリの容量削減等を行なっておりました。"}
+        ]
+    },
+    {
+        "title": "コスメ関連の商品販売webサービスのAndroidアプリ開発",
+        "details": [
+            {"label": "在籍期間", "value": "2017年10月 〜 2018年7月"},
+            {"label": "チーム編成", "value": "チーム名,開発名,全体名"},
+            {"label": "プロジェクトの役割", "value": "PG"},
+            {"label": "使用言語", "value": "Kotlin,Java"},
+            {"label": "使用ツール", "value": "Android Studio,Jira,Git,GitHub,Slack,Zeplin,Bamboo"},
+            {"label": "使用ライブラリー", "value": "Android Architecture Components(LiveData,ViewModelなど)RxJava,Retrofit,Dagger2,Picasso,OkHttp,ButterKnife,Gson"},
+            {"label": "コメント", "value": "コスメ関連の商品販売webサービスのAndroidアプリ開発を行いました。主な業務はバグの改修と新機能開発です。こちらの会社ではKotlinを用いてコーディングを行いました。"}
         ]
     }
 ]
