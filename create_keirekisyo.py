@@ -15,7 +15,37 @@ template = Template("""
     <main class="max-w-4xl mx-auto my-10 p-6 bg-white rounded-lg shadow-md">
         <h1 class="text-3xl font-bold text-center mb-6">スキルシート</h1>
         <h2 class="text-2xl font-bold mb-6">プロフィール</h2>
+        <table class="w-full border-collapse border border-gray-300 mb-6">
+            <tr class="bg-gray-200">
+                <td class="colspan-row text-center font-bold py-4 text-lg border border-gray-300" colspan="6">
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="text-sm font-semibold px-4 py-2 border border-gray-300 w-1/5">
+                    
+                </td>
+                <td class="px-4 py-2 border border-gray-300 w-4/5">
+                    
+                </td>
+            </tr>
+        </table>
         <h2 class="text-2xl font-bold mb-6">個人開発</h2>
+        <table class="w-full border-collapse border border-gray-300 mb-6">
+            <tr class="bg-gray-200">
+                <td class="colspan-row text-center font-bold py-4 text-lg border border-gray-300" colspan="6">
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="text-sm font-semibold px-4 py-2 border border-gray-300 w-1/5">
+                    
+                </td>
+                <td class="px-4 py-2 border border-gray-300 w-4/5">
+                    
+                </td>
+            </tr>
+        </table>
         <h2 class="text-2xl font-bold mb-6">経歴書</h2>
         {% for project in projects %}
         <table class="w-full border-collapse border border-gray-300 mb-6">
@@ -49,7 +79,7 @@ with open("keirekisyo.json", "r", encoding="utf-8") as file:
 html_output = template.render(projects=projects)
 
 # HTMLを保存
-with open("keirekisyo.html", "w", encoding="utf-8") as f:
+with open("docs/index.html", "w", encoding="utf-8") as f:
     f.write(html_output)
 
-print("HTMLファイルを生成しました: keirekisyo.html")
+print("HTMLファイルを生成しました: index.html")
